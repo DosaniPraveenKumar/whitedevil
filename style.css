@@ -1,0 +1,28 @@
+
+
+.header{
+     border-top: solid;
+     border-bottom: solid;
+     border-left: 10px;
+     border-right:10 px;
+     padding-top: 40px;
+     padding-bottom: 40px;
+     padding-left: 10px;
+     margin:10px;
+     background-color: rgb(117, 114, 44);
+}
+.container-fluid{
+    border-style: solid;
+    background-color: rgb(121, 130, 131);
+}
+
+ 
+
+.praveen{
+    border-style:solid;
+    background-color: rgb(47, 50, 53);
+    
+}
+
+
+
